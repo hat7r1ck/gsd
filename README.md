@@ -17,9 +17,9 @@ A simple productivity app built using Python's `tkinter` library that provides r
 
 ## Usage
 
-1. Clone the repository to your local machine:
-2. Navigate to the project directory:
-3. Run the app:
+1. Clone the repository to your local machine
+2. Navigate to the project directory
+3. Run the app
 
 
 ## Screenshot
@@ -29,7 +29,3 @@ A simple productivity app built using Python's `tkinter` library that provides r
 ## Contributing
 
 Contributions are welcome! If you find a bug or have an idea for an enhancement, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
