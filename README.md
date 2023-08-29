@@ -18,10 +18,6 @@ A simple productivity app built using Python's `tkinter` library that provides r
 ## Usage
 
 1. Clone the repository to your local machine:
-
-```
-git clone https://github.com/your-username/productivity-app.git
-```
 2. Navigate to the project directory:
 3. Run the app:
 
