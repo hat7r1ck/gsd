@@ -1,4 +1,4 @@
-# Productivity App
+# Productivity App - Get Shit Done
 
 A simple productivity app built using Python's `tkinter` library that provides random productive tasks to be completed throughout the day. The app allows users to generate tasks, mark tasks as completed, add custom tasks, and view completed tasks.
 
